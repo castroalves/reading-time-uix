@@ -1,9 +1,9 @@
-import HelloUixWorldExtension from "./HelloUixWorld";
+import ReadingTimeExtension from "./ReadingTimeUix";
 
 function App() {
   return (
     <div className="App">
-      <HelloUixWorldExtension />
+      <ReadingTimeExtension />
     </div>
   );
 }
